@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+h1,ul,li{
+    display: inline-block;
+}
+ul{
+    margin-left: 60%;
+    color: gray;
+}
+li:hover{
+    color: white;
+    cursor: pointer;
+}
+img,h1{
+    text-align: center;
+}
+.searchbar{
+    padding: 100px;
+    text-align: center;
+    width: 500px;
+}
+div>h1{
+    padding: 50px;
+}
+table{
+    padding: 30px;
+}
+
